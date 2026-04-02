@@ -1,0 +1,4332 @@
+[
+  {
+    "filename": "benchmark02_linear_1.c",
+    "result": "TRUE",
+    "time_taken": 1.0893399715423584
+  },
+  {
+    "filename": "benchmark09_conjunctive_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057531833649
+  },
+  {
+    "filename": "benchmark10_conjunctive_1.c",
+    "result": "TRUE",
+    "time_taken": 3.2154476642608643
+  },
+  {
+    "filename": "benchmark16_conjunctive_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1059558391571
+  },
+  {
+    "filename": "benchmark17_conjunctive_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1155507564545
+  },
+  {
+    "filename": "benchmark23_conjunctive_1.c",
+    "result": "TRUE",
+    "time_taken": 2.021620512008667
+  },
+  {
+    "filename": "benchmark24_conjunctive_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057691574097
+  },
+  {
+    "filename": "benchmark25_linear_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167023181915
+  },
+  {
+    "filename": "benchmark30_conjunctive_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1165781021118
+  },
+  {
+    "filename": "benchmark31_disjunctive_1.c",
+    "result": "FALSE",
+    "time_taken": 0.38488268852233887
+  },
+  {
+    "filename": "benchmark38_conjunctive_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0430791378021
+  },
+  {
+    "filename": "benchmark39_conjunctive_1.c",
+    "result": "FALSE",
+    "time_taken": 0.38655519485473633
+  },
+  {
+    "filename": "benchmark45_disjunctive_1.c",
+    "result": "FALSE",
+    "time_taken": 0.21985840797424316
+  },
+  {
+    "filename": "benchmark46_disjunctive_1.c",
+    "result": "FALSE",
+    "time_taken": 0.23849844932556152
+  },
+  {
+    "filename": "benchmark53_polynomial_1.c",
+    "result": "FALSE",
+    "time_taken": 0.9553797245025635
+  },
+  {
+    "filename": "bh2017-ex-add_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21687936782836914
+  },
+  {
+    "filename": "bh2017-ex-add_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2544574737548828
+  },
+  {
+    "filename": "bh2017-ex-add_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056551933289
+  },
+  {
+    "filename": "bh2017-ex-add_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1152265071869
+  },
+  {
+    "filename": "bin-suffix-5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1154916286469
+  },
+  {
+    "filename": "bresenham-ll_unwindbound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.11643409729
+  },
+  {
+    "filename": "bresenham-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.115088224411
+  },
+  {
+    "filename": "bresenham-ll_unwindbound10_2.c",
+    "result": "FALSE",
+    "time_taken": 53.87135577201843
+  },
+  {
+    "filename": "bresenham-ll_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057682037354
+  },
+  {
+    "filename": "bresenham-ll_valuebound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.115793466568
+  },
+  {
+    "filename": "bresenham-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 18.17082166671753
+  },
+  {
+    "filename": "bresenham-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 1.2232677936553955
+  },
+  {
+    "filename": "bresenham-ll_valuebound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060283184052
+  },
+  {
+    "filename": "brs2f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.7804181575775146
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_1.c",
+    "result": "TRUE",
+    "time_taken": 0.18712234497070312
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_10.c",
+    "result": "TRUE",
+    "time_taken": 1.5963830947875977
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_11.c",
+    "result": "TRUE",
+    "time_taken": 1.283545732498169
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0772829055786
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_3.c",
+    "result": "TRUE",
+    "time_taken": 7.885645627975464
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1051716804504
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1168196201324
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_6.c",
+    "result": "TRUE",
+    "time_taken": 0.4812650680541992
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_8.c",
+    "result": "FALSE",
+    "time_taken": 1.2265899181365967
+  },
+  {
+    "filename": "cohencu-ll_unwindbound10_9.c",
+    "result": "TRUE",
+    "time_taken": 2.353311777114868
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19454026222229004
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_10.c",
+    "result": "TRUE",
+    "time_taken": 1.7489902973175049
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_11.c",
+    "result": "TRUE",
+    "time_taken": 1.9492087364196777
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1052339076996
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_3.c",
+    "result": "TRUE",
+    "time_taken": 6.796681642532349
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1054730415344
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.116055727005
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_6.c",
+    "result": "TRUE",
+    "time_taken": 0.7039611339569092
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_7.c",
+    "result": "FALSE",
+    "time_taken": 7.9735634326934814
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_8.c",
+    "result": "FALSE",
+    "time_taken": 2.5817716121673584
+  },
+  {
+    "filename": "cohencu-ll_unwindbound20_9.c",
+    "result": "TRUE",
+    "time_taken": 4.052283763885498
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21645355224609375
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_10.c",
+    "result": "TRUE",
+    "time_taken": 0.17992091178894043
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_11.c",
+    "result": "TRUE",
+    "time_taken": 0.17770624160766602
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.1793527603149414
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.1762075424194336
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.17598676681518555
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.17584776878356934
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.178297758102417
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_7.c",
+    "result": "FALSE",
+    "time_taken": 0.24068689346313477
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_8.c",
+    "result": "FALSE",
+    "time_taken": 0.23376131057739258
+  },
+  {
+    "filename": "cohencu-ll_unwindbound2_9.c",
+    "result": "TRUE",
+    "time_taken": 0.1925969123840332
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20182251930236816
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_10.c",
+    "result": "TRUE",
+    "time_taken": 1.4059269428253174
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_11.c",
+    "result": "TRUE",
+    "time_taken": 1.4514477252960205
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1054639816284
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_3.c",
+    "result": "TRUE",
+    "time_taken": 4.557039499282837
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1051862239838
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1161015033722
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_6.c",
+    "result": "TRUE",
+    "time_taken": 0.48932433128356934
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_7.c",
+    "result": "FALSE",
+    "time_taken": 4.218193292617798
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_8.c",
+    "result": "FALSE",
+    "time_taken": 1.0154469013214111
+  },
+  {
+    "filename": "cohencu-ll_unwindbound5_9.c",
+    "result": "TRUE",
+    "time_taken": 2.4881680011749268
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_1.c",
+    "result": "TRUE",
+    "time_taken": 0.17615103721618652
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_10.c",
+    "result": "TRUE",
+    "time_taken": 6.170421838760376
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_11.c",
+    "result": "TRUE",
+    "time_taken": 9.342438459396362
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060202121735
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_3.c",
+    "result": "TRUE",
+    "time_taken": 8.97083067893982
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1067590713501
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1157641410828
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_6.c",
+    "result": "TRUE",
+    "time_taken": 3.3647940158843994
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_8.c",
+    "result": "TRUE",
+    "time_taken": 5.481080532073975
+  },
+  {
+    "filename": "cohencu-ll_valuebound100_9.c",
+    "result": "TRUE",
+    "time_taken": 18.414154767990112
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1741650104522705
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_10.c",
+    "result": "TRUE",
+    "time_taken": 1.127392292022705
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_11.c",
+    "result": "TRUE",
+    "time_taken": 1.9208464622497559
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1058261394501
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 7.1121766567230225
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1052107810974
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1164150238037
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_6.c",
+    "result": "TRUE",
+    "time_taken": 0.6289126873016357
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_7.c",
+    "result": "TRUE",
+    "time_taken": 2.8446414470672607
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_8.c",
+    "result": "TRUE",
+    "time_taken": 0.4703810214996338
+  },
+  {
+    "filename": "cohencu-ll_valuebound10_9.c",
+    "result": "TRUE",
+    "time_taken": 2.2279231548309326
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20993924140930176
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_10.c",
+    "result": "TRUE",
+    "time_taken": 0.1785578727722168
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_11.c",
+    "result": "TRUE",
+    "time_taken": 0.18981194496154785
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.18097329139709473
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.1711893081665039
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.18347978591918945
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.1825418472290039
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.19800639152526855
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_7.c",
+    "result": "TRUE",
+    "time_taken": 0.26880621910095215
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_8.c",
+    "result": "TRUE",
+    "time_taken": 0.2017226219177246
+  },
+  {
+    "filename": "cohencu-ll_valuebound1_9.c",
+    "result": "TRUE",
+    "time_taken": 0.23414325714111328
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20269513130187988
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_10.c",
+    "result": "TRUE",
+    "time_taken": 1.8064069747924805
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_11.c",
+    "result": "TRUE",
+    "time_taken": 2.054263114929199
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1062753200531
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_3.c",
+    "result": "TRUE",
+    "time_taken": 7.391350984573364
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060078144073
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1152386665344
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_6.c",
+    "result": "TRUE",
+    "time_taken": 0.5668504238128662
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_7.c",
+    "result": "TRUE",
+    "time_taken": 2.7759289741516113
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_8.c",
+    "result": "TRUE",
+    "time_taken": 0.9714365005493164
+  },
+  {
+    "filename": "cohencu-ll_valuebound20_9.c",
+    "result": "TRUE",
+    "time_taken": 3.4077982902526855
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19270682334899902
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_10.c",
+    "result": "TRUE",
+    "time_taken": 1.4321751594543457
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_11.c",
+    "result": "TRUE",
+    "time_taken": 2.121187686920166
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1054952144623
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 7.6719701290130615
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1058053970337
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0555939674377
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.4094228744506836
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_7.c",
+    "result": "TRUE",
+    "time_taken": 1.449138879776001
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_8.c",
+    "result": "TRUE",
+    "time_taken": 0.3501861095428467
+  },
+  {
+    "filename": "cohencu-ll_valuebound2_9.c",
+    "result": "TRUE",
+    "time_taken": 1.7850894927978516
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20921039581298828
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_10.c",
+    "result": "TRUE",
+    "time_taken": 2.4586799144744873
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_11.c",
+    "result": "TRUE",
+    "time_taken": 3.5070462226867676
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0416483879089
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_3.c",
+    "result": "TRUE",
+    "time_taken": 8.60098648071289
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056339740753
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1163034439087
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_6.c",
+    "result": "TRUE",
+    "time_taken": 1.4882526397705078
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_8.c",
+    "result": "TRUE",
+    "time_taken": 1.846348762512207
+  },
+  {
+    "filename": "cohencu-ll_valuebound50_9.c",
+    "result": "TRUE",
+    "time_taken": 7.010934352874756
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1719040870666504
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_10.c",
+    "result": "TRUE",
+    "time_taken": 0.8662149906158447
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_11.c",
+    "result": "TRUE",
+    "time_taken": 1.879711389541626
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057679653168
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 7.143405199050903
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1040546894073
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1155219078064
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_6.c",
+    "result": "TRUE",
+    "time_taken": 0.5448153018951416
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_7.c",
+    "result": "TRUE",
+    "time_taken": 2.361074209213257
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_8.c",
+    "result": "TRUE",
+    "time_taken": 0.6688759326934814
+  },
+  {
+    "filename": "cohencu-ll_valuebound5_9.c",
+    "result": "TRUE",
+    "time_taken": 4.911546230316162
+  },
+  {
+    "filename": "cohencu_1.c",
+    "result": "TRUE",
+    "time_taken": 0.28392791748046875
+  },
+  {
+    "filename": "cohencu_10.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1027615070343
+  },
+  {
+    "filename": "cohencu_11.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0513880252838
+  },
+  {
+    "filename": "cohencu_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1154556274414
+  },
+  {
+    "filename": "cohencu_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167714595795
+  },
+  {
+    "filename": "cohencu_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1175475120544
+  },
+  {
+    "filename": "cohencu_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1169488430023
+  },
+  {
+    "filename": "cohencu_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1168808937073
+  },
+  {
+    "filename": "cohencu_8.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1173436641693
+  },
+  {
+    "filename": "cohencu_9.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1171119213104
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0847990512848
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.116367816925
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1161153316498
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1176068782806
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_5.c",
+    "result": "TRUE",
+    "time_taken": 0.501701831817627
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1058423519135
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound100_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1175320148468
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_1.c",
+    "result": "TRUE",
+    "time_taken": 38.653635025024414
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1062042713165
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_3.c",
+    "result": "TRUE",
+    "time_taken": 17.487401485443115
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1061005592346
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_5.c",
+    "result": "TRUE",
+    "time_taken": 0.7510087490081787
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_6.c",
+    "result": "TRUE",
+    "time_taken": 18.5057852268219
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound10_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1055974960327
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_1.c",
+    "result": "TRUE",
+    "time_taken": 358.2518606185913
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1134285926819
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_3.c",
+    "result": "TRUE",
+    "time_taken": 56.09300470352173
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.105569601059
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_5.c",
+    "result": "TRUE",
+    "time_taken": 0.8255753517150879
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_6.c",
+    "result": "TRUE",
+    "time_taken": 316.334187746048
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound20_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1124110221863
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.3991837501525879
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.20310258865356445
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.22992444038391113
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.21047663688659668
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21119117736816406
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.22361516952514648
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound2_7.c",
+    "result": "TRUE",
+    "time_taken": 1.3013372421264648
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_1.c",
+    "result": "TRUE",
+    "time_taken": 7.389452934265137
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_2.c",
+    "result": "TRUE",
+    "time_taken": 20.893773078918457
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_3.c",
+    "result": "TRUE",
+    "time_taken": 27.771424770355225
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_4.c",
+    "result": "TRUE",
+    "time_taken": 14.969392538070679
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_5.c",
+    "result": "TRUE",
+    "time_taken": 0.2932744026184082
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_6.c",
+    "result": "TRUE",
+    "time_taken": 13.161913871765137
+  },
+  {
+    "filename": "cohendiv-ll_unwindbound5_7.c",
+    "result": "TRUE",
+    "time_taken": 29.416892528533936
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 1.2638940811157227
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 1.9027817249298096
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 1.3394083976745605
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_4.c",
+    "result": "TRUE",
+    "time_taken": 1.628539800643921
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_5.c",
+    "result": "TRUE",
+    "time_taken": 0.23121094703674316
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_6.c",
+    "result": "TRUE",
+    "time_taken": 1.02473783493042
+  },
+  {
+    "filename": "cohendiv-ll_valuebound10_7.c",
+    "result": "TRUE",
+    "time_taken": 1.0796072483062744
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_1.c",
+    "result": "TRUE",
+    "time_taken": 4.948070287704468
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_2.c",
+    "result": "TRUE",
+    "time_taken": 8.119595766067505
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_3.c",
+    "result": "TRUE",
+    "time_taken": 1.5712883472442627
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_4.c",
+    "result": "TRUE",
+    "time_taken": 4.874324321746826
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_5.c",
+    "result": "TRUE",
+    "time_taken": 0.2224280834197998
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_6.c",
+    "result": "TRUE",
+    "time_taken": 3.968505620956421
+  },
+  {
+    "filename": "cohendiv-ll_valuebound50_7.c",
+    "result": "TRUE",
+    "time_taken": 3.52104115486145
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2696363925933838
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2601168155670166
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 0.27025699615478516
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_4.c",
+    "result": "TRUE",
+    "time_taken": 0.30527663230895996
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_5.c",
+    "result": "TRUE",
+    "time_taken": 0.37283825874328613
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_6.c",
+    "result": "TRUE",
+    "time_taken": 0.2672445774078369
+  },
+  {
+    "filename": "cohendiv-ll_valuebound5_7.c",
+    "result": "TRUE",
+    "time_taken": 0.28278613090515137
+  },
+  {
+    "filename": "condmf_1.c",
+    "result": "FALSE",
+    "time_taken": 0.49637365341186523
+  },
+  {
+    "filename": "diamond_1-1_1.c",
+    "result": "TRUE",
+    "time_taken": 2.2596890926361084
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.17580652236938477
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.19115018844604492
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.1888110637664795
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.19021129608154297
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21130943298339844
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.19017672538757324
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_7.c",
+    "result": "TRUE",
+    "time_taken": 0.2099013328552246
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_8.c",
+    "result": "TRUE",
+    "time_taken": 0.2074131965637207
+  },
+  {
+    "filename": "dijkstra-u_unwindbound1_9.c",
+    "result": "TRUE",
+    "time_taken": 0.2097945213317871
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.27361464500427246
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.20992827415466309
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.27188968658447266
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.28546142578125
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21549177169799805
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.21455931663513184
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_7.c",
+    "result": "TRUE",
+    "time_taken": 0.2741050720214844
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_8.c",
+    "result": "TRUE",
+    "time_taken": 0.24376320838928223
+  },
+  {
+    "filename": "dijkstra-u_unwindbound2_9.c",
+    "result": "TRUE",
+    "time_taken": 0.2918224334716797
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19440460205078125
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2610194683074951
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.3918771743774414
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21374011039733887
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.19063377380371094
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_7.c",
+    "result": "TRUE",
+    "time_taken": 0.1857142448425293
+  },
+  {
+    "filename": "dijkstra-u_valuebound2_8.c",
+    "result": "TRUE",
+    "time_taken": 0.19871139526367188
+  },
+  {
+    "filename": "divbin2_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.22241783142089844
+  },
+  {
+    "filename": "divbin2_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.21512699127197266
+  },
+  {
+    "filename": "dll-optional-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.15240693092346191
+  },
+  {
+    "filename": "dll-queue-1_10.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12602496147155762
+  },
+  {
+    "filename": "dll-queue-1_11.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11621594429016113
+  },
+  {
+    "filename": "dll-queue-1_12.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11855149269104004
+  },
+  {
+    "filename": "dll-queue-1_13.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12000322341918945
+  },
+  {
+    "filename": "dll-queue-1_14.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11734962463378906
+  },
+  {
+    "filename": "dll-queue-1_15.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11678719520568848
+  },
+  {
+    "filename": "dll-queue-1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12228560447692871
+  },
+  {
+    "filename": "dll-queue-1_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11947035789489746
+  },
+  {
+    "filename": "dll-queue-1_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1207575798034668
+  },
+  {
+    "filename": "dll-queue-1_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12157464027404785
+  },
+  {
+    "filename": "dll-queue-1_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11964941024780273
+  },
+  {
+    "filename": "dll-queue-1_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13248157501220703
+  },
+  {
+    "filename": "dll-queue-1_8.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11931037902832031
+  },
+  {
+    "filename": "dll-queue-1_9.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11940288543701172
+  },
+  {
+    "filename": "dll-rb-cnstr_1-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13248848915100098
+  },
+  {
+    "filename": "dll-rb-cnstr_1-2_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.20438671112060547
+  },
+  {
+    "filename": "dll-rb-cnstr_1-2_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11872005462646484
+  },
+  {
+    "filename": "dll-simple-white-blue-1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13030672073364258
+  },
+  {
+    "filename": "dll-simple-white-blue-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13155078887939453
+  },
+  {
+    "filename": "egcd-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1061747074127
+  },
+  {
+    "filename": "egcd-ll_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1158268451691
+  },
+  {
+    "filename": "egcd-ll_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1170327663422
+  },
+  {
+    "filename": "egcd-ll_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0278680324554
+  },
+  {
+    "filename": "egcd-ll_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.117308139801
+  },
+  {
+    "filename": "egcd-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1171102523804
+  },
+  {
+    "filename": "egcd-ll_unwindbound10_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1166858673096
+  },
+  {
+    "filename": "egcd-ll_unwindbound10_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167316436768
+  },
+  {
+    "filename": "egcd-ll_unwindbound10_4.c",
+    "result": "FALSE",
+    "time_taken": 3.847460985183716
+  },
+  {
+    "filename": "egcd-ll_unwindbound10_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060302257538
+  },
+  {
+    "filename": "egcd-ll_unwindbound10_6.c",
+    "result": "TRUE",
+    "time_taken": 15.867127180099487
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2013378143310547
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.19025754928588867
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.20371294021606445
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_4.c",
+    "result": "FALSE",
+    "time_taken": 0.2509336471557617
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_5.c",
+    "result": "FALSE",
+    "time_taken": 0.6118934154510498
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.25252413749694824
+  },
+  {
+    "filename": "egcd-ll_unwindbound2_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1064264774323
+  },
+  {
+    "filename": "egcd-ll_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1164872646332
+  },
+  {
+    "filename": "egcd-ll_unwindbound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167647838593
+  },
+  {
+    "filename": "egcd-ll_unwindbound50_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1166143417358
+  },
+  {
+    "filename": "egcd-ll_unwindbound50_4.c",
+    "result": "FALSE",
+    "time_taken": 548.7217814922333
+  },
+  {
+    "filename": "egcd-ll_unwindbound50_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1135654449463
+  },
+  {
+    "filename": "egcd-ll_unwindbound50_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1163167953491
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1170160770416
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1172306537628
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1166155338287
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_4.c",
+    "result": "FALSE",
+    "time_taken": 1.9143714904785156
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057658195496
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_6.c",
+    "result": "TRUE",
+    "time_taken": 3.7002334594726562
+  },
+  {
+    "filename": "egcd-ll_unwindbound5_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1063661575317
+  },
+  {
+    "filename": "egcd-ll_valuebound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0537085533142
+  },
+  {
+    "filename": "egcd-ll_valuebound100_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1156046390533
+  },
+  {
+    "filename": "egcd-ll_valuebound100_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1169171333313
+  },
+  {
+    "filename": "egcd-ll_valuebound100_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1158030033112
+  },
+  {
+    "filename": "egcd-ll_valuebound100_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.116376876831
+  },
+  {
+    "filename": "egcd-ll_valuebound100_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1166841983795
+  },
+  {
+    "filename": "egcd-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1165204048157
+  },
+  {
+    "filename": "egcd-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 10.421810626983643
+  },
+  {
+    "filename": "egcd-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 11.00141954421997
+  },
+  {
+    "filename": "egcd-ll_valuebound10_4.c",
+    "result": "TRUE",
+    "time_taken": 3.982029914855957
+  },
+  {
+    "filename": "egcd-ll_valuebound10_6.c",
+    "result": "TRUE",
+    "time_taken": 8.600378274917603
+  },
+  {
+    "filename": "egcd-ll_valuebound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1037063598633
+  },
+  {
+    "filename": "egcd-ll_valuebound20_2.c",
+    "result": "TRUE",
+    "time_taken": 198.57991409301758
+  },
+  {
+    "filename": "egcd-ll_valuebound20_3.c",
+    "result": "TRUE",
+    "time_taken": 177.1694610118866
+  },
+  {
+    "filename": "egcd-ll_valuebound20_4.c",
+    "result": "TRUE",
+    "time_taken": 36.94994306564331
+  },
+  {
+    "filename": "egcd-ll_valuebound20_6.c",
+    "result": "TRUE",
+    "time_taken": 120.36265468597412
+  },
+  {
+    "filename": "egcd-ll_valuebound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1087875366211
+  },
+  {
+    "filename": "egcd-ll_valuebound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1115238666534
+  },
+  {
+    "filename": "egcd-ll_valuebound50_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1136231422424
+  },
+  {
+    "filename": "egcd-ll_valuebound50_4.c",
+    "result": "TRUE",
+    "time_taken": 260.33495020866394
+  },
+  {
+    "filename": "egcd-ll_valuebound50_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1124408245087
+  },
+  {
+    "filename": "egcd-ll_valuebound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1157104969025
+  },
+  {
+    "filename": "egcd-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 18.545682907104492
+  },
+  {
+    "filename": "egcd-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 3.9033477306365967
+  },
+  {
+    "filename": "egcd-ll_valuebound5_4.c",
+    "result": "TRUE",
+    "time_taken": 0.9168226718902588
+  },
+  {
+    "filename": "egcd-ll_valuebound5_5.c",
+    "result": "TRUE",
+    "time_taken": 2.1405365467071533
+  },
+  {
+    "filename": "egcd-ll_valuebound5_6.c",
+    "result": "TRUE",
+    "time_taken": 2.7525203227996826
+  },
+  {
+    "filename": "egcd-ll_valuebound5_7.c",
+    "result": "TRUE",
+    "time_taken": 2.168748617172241
+  },
+  {
+    "filename": "egcd2-ll_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1062252521515
+  },
+  {
+    "filename": "egcd2-ll_unwindbound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1160869598389
+  },
+  {
+    "filename": "egcd2-ll_unwindbound50_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1129438877106
+  },
+  {
+    "filename": "egcd2-ll_unwindbound50_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1115584373474
+  },
+  {
+    "filename": "egcd2-ll_unwindbound5_1.c",
+    "result": "TRUE",
+    "time_taken": 46.04288387298584
+  },
+  {
+    "filename": "egcd2-ll_unwindbound5_2.c",
+    "result": "TRUE",
+    "time_taken": 65.19188284873962
+  },
+  {
+    "filename": "egcd2-ll_unwindbound5_3.c",
+    "result": "TRUE",
+    "time_taken": 429.8173849582672
+  },
+  {
+    "filename": "egcd2-ll_unwindbound5_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1149730682373
+  },
+  {
+    "filename": "egcd2-ll_unwindbound5_5.c",
+    "result": "FALSE",
+    "time_taken": 2.0453405380249023
+  },
+  {
+    "filename": "egcd2-ll_unwindbound5_6.c",
+    "result": "TRUE",
+    "time_taken": 346.45750975608826
+  },
+  {
+    "filename": "egcd2-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 2.016397714614868
+  },
+  {
+    "filename": "egcd2-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.41262102127075195
+  },
+  {
+    "filename": "egcd2-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.8264265060424805
+  },
+  {
+    "filename": "egcd2-ll_valuebound1_4.c",
+    "result": "TRUE",
+    "time_taken": 1.167165756225586
+  },
+  {
+    "filename": "egcd2-ll_valuebound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.495708703994751
+  },
+  {
+    "filename": "egcd2-ll_valuebound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.37777256965637207
+  },
+  {
+    "filename": "egcd2-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 1.713951587677002
+  },
+  {
+    "filename": "egcd2-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.8708066940307617
+  },
+  {
+    "filename": "egcd2-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 1.197103500366211
+  },
+  {
+    "filename": "egcd2-ll_valuebound2_4.c",
+    "result": "TRUE",
+    "time_taken": 1.6937084197998047
+  },
+  {
+    "filename": "egcd2-ll_valuebound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.781496524810791
+  },
+  {
+    "filename": "egcd2-ll_valuebound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.7507543563842773
+  },
+  {
+    "filename": "egcd2-ll_valuebound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1054306030273
+  },
+  {
+    "filename": "egcd2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1138246059418
+  },
+  {
+    "filename": "egcd2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1089897155762
+  },
+  {
+    "filename": "egcd2_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1114368438721
+  },
+  {
+    "filename": "egcd3-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.111424446106
+  },
+  {
+    "filename": "egcd3-ll_unwindbound10_4.c",
+    "result": "TRUE",
+    "time_taken": 207.68917298316956
+  },
+  {
+    "filename": "egcd3-ll_unwindbound50_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1090984344482
+  },
+  {
+    "filename": "egcd3-ll_unwindbound5_1.c",
+    "result": "TRUE",
+    "time_taken": 87.17348265647888
+  },
+  {
+    "filename": "egcd3-ll_unwindbound5_2.c",
+    "result": "TRUE",
+    "time_taken": 207.84584426879883
+  },
+  {
+    "filename": "egcd3-ll_unwindbound5_3.c",
+    "result": "TRUE",
+    "time_taken": 38.32325482368469
+  },
+  {
+    "filename": "egcd3-ll_unwindbound5_4.c",
+    "result": "TRUE",
+    "time_taken": 157.9355070590973
+  },
+  {
+    "filename": "egcd3-ll_unwindbound5_5.c",
+    "result": "FALSE",
+    "time_taken": 8.30599308013916
+  },
+  {
+    "filename": "egcd3-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 2.893958568572998
+  },
+  {
+    "filename": "egcd3-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 4.890174388885498
+  },
+  {
+    "filename": "egcd3-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 2.8850815296173096
+  },
+  {
+    "filename": "egcd3-ll_valuebound1_4.c",
+    "result": "TRUE",
+    "time_taken": 1.190697193145752
+  },
+  {
+    "filename": "egcd3-ll_valuebound1_5.c",
+    "result": "TRUE",
+    "time_taken": 1.8195111751556396
+  },
+  {
+    "filename": "egcd3-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 2.9498167037963867
+  },
+  {
+    "filename": "egcd3-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 5.186278343200684
+  },
+  {
+    "filename": "egcd3-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 2.8265438079833984
+  },
+  {
+    "filename": "egcd3-ll_valuebound2_4.c",
+    "result": "TRUE",
+    "time_taken": 1.0709095001220703
+  },
+  {
+    "filename": "egcd3-ll_valuebound2_5.c",
+    "result": "TRUE",
+    "time_taken": 1.9748334884643555
+  },
+  {
+    "filename": "egcd3-ll_valuebound50_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1137225627899
+  },
+  {
+    "filename": "egcd3-ll_valuebound50_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.115403175354
+  },
+  {
+    "filename": "egcd3_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1136510372162
+  },
+  {
+    "filename": "egcd_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1133525371552
+  },
+  {
+    "filename": "egcd_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1115291118622
+  },
+  {
+    "filename": "egcd_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1113955974579
+  },
+  {
+    "filename": "egcd_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1115834712982
+  },
+  {
+    "filename": "egcd_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1114323139191
+  },
+  {
+    "filename": "eqn1f_1.c",
+    "result": "FALSE",
+    "time_taken": 1.05338716506958
+  },
+  {
+    "filename": "eqn5f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.9047715663909912
+  },
+  {
+    "filename": "eureka_01-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.5357375144958496
+  },
+  {
+    "filename": "fermat1-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1049466133118
+  },
+  {
+    "filename": "fermat1-ll_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1113381385803
+  },
+  {
+    "filename": "fermat1-ll_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1114041805267
+  },
+  {
+    "filename": "fermat1-ll_unwindbound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1116199493408
+  },
+  {
+    "filename": "fermat1-ll_unwindbound100_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1146748065948
+  },
+  {
+    "filename": "fermat1-ll_unwindbound100_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1170501708984
+  },
+  {
+    "filename": "fermat1-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1160161495209
+  },
+  {
+    "filename": "fermat1-ll_unwindbound10_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1168830394745
+  },
+  {
+    "filename": "fermat1-ll_unwindbound10_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1172988414764
+  },
+  {
+    "filename": "fermat1-ll_unwindbound10_4.c",
+    "result": "FALSE",
+    "time_taken": 97.77672362327576
+  },
+  {
+    "filename": "fermat1-ll_unwindbound1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1138164997101
+  },
+  {
+    "filename": "fermat1-ll_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 7.084493160247803
+  },
+  {
+    "filename": "fermat1-ll_unwindbound1_3.c",
+    "result": "TRUE",
+    "time_taken": 6.68657112121582
+  },
+  {
+    "filename": "fermat1-ll_unwindbound1_4.c",
+    "result": "FALSE",
+    "time_taken": 96.83722519874573
+  },
+  {
+    "filename": "fermat1-ll_unwindbound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1137850284576
+  },
+  {
+    "filename": "fermat1-ll_unwindbound20_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1176431179047
+  },
+  {
+    "filename": "fermat1-ll_unwindbound20_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1172916889191
+  },
+  {
+    "filename": "fermat1-ll_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1174221038818
+  },
+  {
+    "filename": "fermat1-ll_unwindbound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1156847476959
+  },
+  {
+    "filename": "fermat1-ll_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 1.3954288959503174
+  },
+  {
+    "filename": "fermat1-ll_unwindbound2_4.c",
+    "result": "FALSE",
+    "time_taken": 136.54757928848267
+  },
+  {
+    "filename": "fermat1-ll_valuebound20_1.c",
+    "result": "TRUE",
+    "time_taken": 27.074852466583252
+  },
+  {
+    "filename": "fermat1-ll_valuebound20_2.c",
+    "result": "TRUE",
+    "time_taken": 32.33745718002319
+  },
+  {
+    "filename": "fermat1-ll_valuebound20_3.c",
+    "result": "TRUE",
+    "time_taken": 39.777549028396606
+  },
+  {
+    "filename": "fermat1-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 1.9276697635650635
+  },
+  {
+    "filename": "fermat1-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 2.6537232398986816
+  },
+  {
+    "filename": "fermat1-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.9708099365234375
+  },
+  {
+    "filename": "fermat1-ll_valuebound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.9228770732879639
+  },
+  {
+    "filename": "fermat1-ll_valuebound5_1.c",
+    "result": "TRUE",
+    "time_taken": 12.455092668533325
+  },
+  {
+    "filename": "fermat1-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 15.066604614257812
+  },
+  {
+    "filename": "fermat1-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 14.675365924835205
+  },
+  {
+    "filename": "fermat1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1063306331635
+  },
+  {
+    "filename": "fermat1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.11572098732
+  },
+  {
+    "filename": "fermat1_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1114137172699
+  },
+  {
+    "filename": "fermat2-ll_unwindbound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.111457824707
+  },
+  {
+    "filename": "fermat2-ll_unwindbound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1119737625122
+  },
+  {
+    "filename": "fermat2-ll_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1108903884888
+  },
+  {
+    "filename": "fermat2-ll_unwindbound2_2.c",
+    "result": "FALSE",
+    "time_taken": 409.19724464416504
+  },
+  {
+    "filename": "fermat2-ll_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1096653938293
+  },
+  {
+    "filename": "fermat2-ll_valuebound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1108849048615
+  },
+  {
+    "filename": "fermat2-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 4.46155309677124
+  },
+  {
+    "filename": "fermat2-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 2.038844347000122
+  },
+  {
+    "filename": "freire2_unwindbound10_3.c",
+    "result": "FALSE",
+    "time_taken": 1.3245818614959717
+  },
+  {
+    "filename": "freire2_unwindbound10_6.c",
+    "result": "FALSE",
+    "time_taken": 1.5375497341156006
+  },
+  {
+    "filename": "freire2_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.4484567642211914
+  },
+  {
+    "filename": "freire2_unwindbound1_3.c",
+    "result": "FALSE",
+    "time_taken": 1.4260048866271973
+  },
+  {
+    "filename": "freire2_unwindbound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.4984281063079834
+  },
+  {
+    "filename": "freire2_unwindbound1_6.c",
+    "result": "FALSE",
+    "time_taken": 1.618483066558838
+  },
+  {
+    "filename": "freire2_valuebound100_3.c",
+    "result": "FALSE",
+    "time_taken": 1.2951295375823975
+  },
+  {
+    "filename": "freire2_valuebound100_6.c",
+    "result": "FALSE",
+    "time_taken": 4.5226216316223145
+  },
+  {
+    "filename": "freire2_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 0.922461986541748
+  },
+  {
+    "filename": "freire2_valuebound10_3.c",
+    "result": "FALSE",
+    "time_taken": 1.2361712455749512
+  },
+  {
+    "filename": "freire2_valuebound10_4.c",
+    "result": "TRUE",
+    "time_taken": 0.9775431156158447
+  },
+  {
+    "filename": "freire2_valuebound10_6.c",
+    "result": "FALSE",
+    "time_taken": 1.6097965240478516
+  },
+  {
+    "filename": "functions_1-1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1032824516296
+  },
+  {
+    "filename": "gcd_4_1.c",
+    "result": "TRUE",
+    "time_taken": 3.7088911533355713
+  },
+  {
+    "filename": "gcd_4_2.c",
+    "result": "TRUE",
+    "time_taken": 3.6055262088775635
+  },
+  {
+    "filename": "gcd_4_3.c",
+    "result": "TRUE",
+    "time_taken": 0.560359001159668
+  },
+  {
+    "filename": "geo1-ll2_unwindbound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1051714420319
+  },
+  {
+    "filename": "geo1-ll2_unwindbound20_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1154582500458
+  },
+  {
+    "filename": "geo1-ll2_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1150789260864
+  },
+  {
+    "filename": "geo1-ll2_unwindbound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1165792942047
+  },
+  {
+    "filename": "geo1-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.3665320873260498
+  },
+  {
+    "filename": "geo1-ll_unwindbound1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1043775081635
+  },
+  {
+    "filename": "geo1-ll_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1112794876099
+  },
+  {
+    "filename": "geo1-ll_unwindbound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1113913059235
+  },
+  {
+    "filename": "geo1-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.6323466300964355
+  },
+  {
+    "filename": "geo1-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.4124906063079834
+  },
+  {
+    "filename": "geo1-u2_unwindbound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1016778945923
+  },
+  {
+    "filename": "geo1-u2_unwindbound100_2.c",
+    "result": "FALSE",
+    "time_taken": 0.40985727310180664
+  },
+  {
+    "filename": "geo1-u2_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1059634685516
+  },
+  {
+    "filename": "geo1-u2_unwindbound10_2.c",
+    "result": "FALSE",
+    "time_taken": 0.372861385345459
+  },
+  {
+    "filename": "geo1-u2_valuebound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1061353683472
+  },
+  {
+    "filename": "geo1-u2_valuebound50_2.c",
+    "result": "FALSE",
+    "time_taken": 0.3941011428833008
+  },
+  {
+    "filename": "geo1-u_2.c",
+    "result": "FALSE",
+    "time_taken": 0.20726728439331055
+  },
+  {
+    "filename": "geo1-u_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20644736289978027
+  },
+  {
+    "filename": "geo1-u_unwindbound1_2.c",
+    "result": "FALSE",
+    "time_taken": 0.2510862350463867
+  },
+  {
+    "filename": "geo1-u_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 47.81262278556824
+  },
+  {
+    "filename": "geo1-u_valuebound10_2.c",
+    "result": "FALSE",
+    "time_taken": 0.19989800453186035
+  },
+  {
+    "filename": "geo1-u_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.184981107711792
+  },
+  {
+    "filename": "geo1-u_valuebound1_2.c",
+    "result": "FALSE",
+    "time_taken": 0.19144558906555176
+  },
+  {
+    "filename": "geo2-ll2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0079064369202
+  },
+  {
+    "filename": "geo2-ll2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1172456741333
+  },
+  {
+    "filename": "geo2-ll2_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1160690784454
+  },
+  {
+    "filename": "geo2-ll2_unwindbound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1164371967316
+  },
+  {
+    "filename": "geo2-ll2_valuebound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1160380840302
+  },
+  {
+    "filename": "geo2-ll2_valuebound100_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.117203950882
+  },
+  {
+    "filename": "geo2-ll_unwindbound5_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.116072177887
+  },
+  {
+    "filename": "geo2-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.4517817497253418
+  },
+  {
+    "filename": "geo2-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.22848963737487793
+  },
+  {
+    "filename": "geo2-ll_valuebound5_1.c",
+    "result": "TRUE",
+    "time_taken": 8.365219593048096
+  },
+  {
+    "filename": "geo2-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 2.683729648590088
+  },
+  {
+    "filename": "geo3-ll2_unwindbound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1058197021484
+  },
+  {
+    "filename": "geo3-ll2_unwindbound20_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1155960559845
+  },
+  {
+    "filename": "geo3-ll2_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1161735057831
+  },
+  {
+    "filename": "geo3-ll2_unwindbound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167418956757
+  },
+  {
+    "filename": "geo3-ll2_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1166474819183
+  },
+  {
+    "filename": "geo3-ll2_unwindbound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1174006462097
+  },
+  {
+    "filename": "geo3-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 2.00544810295105
+  },
+  {
+    "filename": "geo3-ll_unwindbound1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1053202152252
+  },
+  {
+    "filename": "geo3-ll_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1177632808685
+  },
+  {
+    "filename": "geo3-ll_unwindbound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1171391010284
+  },
+  {
+    "filename": "geo3-ll_unwindbound5_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1168575286865
+  },
+  {
+    "filename": "geo3-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.6394598484039307
+  },
+  {
+    "filename": "geo3-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.30832624435424805
+  },
+  {
+    "filename": "hard-ll_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21697497367858887
+  },
+  {
+    "filename": "hard-ll_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2229454517364502
+  },
+  {
+    "filename": "hard-ll_3.c",
+    "result": "TRUE",
+    "time_taken": 0.24546122550964355
+  },
+  {
+    "filename": "hard-ll_unwindbound50_1.c",
+    "result": "TRUE",
+    "time_taken": 0.24627184867858887
+  },
+  {
+    "filename": "hard-ll_unwindbound50_2.c",
+    "result": "TRUE",
+    "time_taken": 0.24591279029846191
+  },
+  {
+    "filename": "hard-ll_unwindbound50_3.c",
+    "result": "TRUE",
+    "time_taken": 0.22606825828552246
+  },
+  {
+    "filename": "hard-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19057345390319824
+  },
+  {
+    "filename": "hard-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2658679485321045
+  },
+  {
+    "filename": "hard-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2127532958984375
+  },
+  {
+    "filename": "hard-ll_valuebound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.2523491382598877
+  },
+  {
+    "filename": "hard-ll_valuebound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21504449844360352
+  },
+  {
+    "filename": "hard-ll_valuebound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.21547889709472656
+  },
+  {
+    "filename": "hard-ll_valuebound1_7.c",
+    "result": "TRUE",
+    "time_taken": 0.20096087455749512
+  },
+  {
+    "filename": "hard-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.211029052734375
+  },
+  {
+    "filename": "hard-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2143397331237793
+  },
+  {
+    "filename": "hard-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.21423649787902832
+  },
+  {
+    "filename": "hard-ll_valuebound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.2756621837615967
+  },
+  {
+    "filename": "hard-ll_valuebound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.20605993270874023
+  },
+  {
+    "filename": "hard-ll_valuebound2_7.c",
+    "result": "TRUE",
+    "time_taken": 0.26881957054138184
+  },
+  {
+    "filename": "hard-u_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2340559959411621
+  },
+  {
+    "filename": "hard-u_2.c",
+    "result": "TRUE",
+    "time_taken": 0.32259058952331543
+  },
+  {
+    "filename": "hard-u_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2367870807647705
+  },
+  {
+    "filename": "hard-u_5.c",
+    "result": "FALSE",
+    "time_taken": 0.32724881172180176
+  },
+  {
+    "filename": "hard-u_7.c",
+    "result": "FALSE",
+    "time_taken": 0.23224115371704102
+  },
+  {
+    "filename": "hard-u_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21161174774169922
+  },
+  {
+    "filename": "hard-u_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2160794734954834
+  },
+  {
+    "filename": "hard-u_unwindbound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.23081064224243164
+  },
+  {
+    "filename": "hard-u_unwindbound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.21357941627502441
+  },
+  {
+    "filename": "hard-u_unwindbound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.2867147922515869
+  },
+  {
+    "filename": "hard-u_unwindbound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.2040412425994873
+  },
+  {
+    "filename": "hard-u_unwindbound1_7.c",
+    "result": "FALSE",
+    "time_taken": 0.28495335578918457
+  },
+  {
+    "filename": "hard-u_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20885610580444336
+  },
+  {
+    "filename": "hard-u_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2662966251373291
+  },
+  {
+    "filename": "hard-u_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 0.21261096000671387
+  },
+  {
+    "filename": "hard-u_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2354869842529297
+  },
+  {
+    "filename": "hard-u_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.20814871788024902
+  },
+  {
+    "filename": "hard-u_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.20611238479614258
+  },
+  {
+    "filename": "hard-u_valuebound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.21433758735656738
+  },
+  {
+    "filename": "hard-u_valuebound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.20802974700927734
+  },
+  {
+    "filename": "hard2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20744967460632324
+  },
+  {
+    "filename": "hard2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2127690315246582
+  },
+  {
+    "filename": "hard2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2590067386627197
+  },
+  {
+    "filename": "hard2_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0586075782776
+  },
+  {
+    "filename": "hard2_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.4195539951324463
+  },
+  {
+    "filename": "hard2_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.1779017448425293
+  },
+  {
+    "filename": "hard2_unwindbound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.19019174575805664
+  },
+  {
+    "filename": "hard2_unwindbound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.18825912475585938
+  },
+  {
+    "filename": "hard2_unwindbound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.20838189125061035
+  },
+  {
+    "filename": "hard2_unwindbound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.277233362197876
+  },
+  {
+    "filename": "hard2_unwindbound1_7.c",
+    "result": "FALSE",
+    "time_taken": 0.20719003677368164
+  },
+  {
+    "filename": "hard2_unwindbound5_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2771611213684082
+  },
+  {
+    "filename": "hard2_unwindbound5_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2180323600769043
+  },
+  {
+    "filename": "hard2_unwindbound5_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2712738513946533
+  },
+  {
+    "filename": "hard2_unwindbound5_4.c",
+    "result": "TRUE",
+    "time_taken": 0.5183243751525879
+  },
+  {
+    "filename": "hard2_unwindbound5_5.c",
+    "result": "TRUE",
+    "time_taken": 0.195176362991333
+  },
+  {
+    "filename": "hard2_unwindbound5_6.c",
+    "result": "FALSE",
+    "time_taken": 0.9947667121887207
+  },
+  {
+    "filename": "hard2_unwindbound5_7.c",
+    "result": "FALSE",
+    "time_taken": 0.5599575042724609
+  },
+  {
+    "filename": "hard2_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21915936470031738
+  },
+  {
+    "filename": "hard2_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 0.1995983123779297
+  },
+  {
+    "filename": "hard2_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2514529228210449
+  },
+  {
+    "filename": "hard2_valuebound10_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21381044387817383
+  },
+  {
+    "filename": "hard2_valuebound10_7.c",
+    "result": "TRUE",
+    "time_taken": 0.3095972537994385
+  },
+  {
+    "filename": "hard2_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20618343353271484
+  },
+  {
+    "filename": "hard2_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.22119688987731934
+  },
+  {
+    "filename": "hard2_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2054440975189209
+  },
+  {
+    "filename": "hard2_valuebound1_4.c",
+    "result": "TRUE",
+    "time_taken": 0.23302030563354492
+  },
+  {
+    "filename": "hard2_valuebound1_5.c",
+    "result": "TRUE",
+    "time_taken": 0.19854164123535156
+  },
+  {
+    "filename": "hard2_valuebound1_6.c",
+    "result": "TRUE",
+    "time_taken": 0.21314144134521484
+  },
+  {
+    "filename": "hard2_valuebound1_7.c",
+    "result": "TRUE",
+    "time_taken": 0.21316814422607422
+  },
+  {
+    "filename": "hard2_valuebound20_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21155047416687012
+  },
+  {
+    "filename": "hard2_valuebound20_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2441844940185547
+  },
+  {
+    "filename": "hard2_valuebound20_3.c",
+    "result": "TRUE",
+    "time_taken": 0.20706391334533691
+  },
+  {
+    "filename": "hard2_valuebound20_5.c",
+    "result": "TRUE",
+    "time_taken": 0.21315789222717285
+  },
+  {
+    "filename": "hard2_valuebound20_7.c",
+    "result": "TRUE",
+    "time_taken": 0.2707388401031494
+  },
+  {
+    "filename": "hard2_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19318914413452148
+  },
+  {
+    "filename": "hard2_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.20532774925231934
+  },
+  {
+    "filename": "hard2_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.20713043212890625
+  },
+  {
+    "filename": "hard2_valuebound2_4.c",
+    "result": "TRUE",
+    "time_taken": 0.21585679054260254
+  },
+  {
+    "filename": "hard2_valuebound2_5.c",
+    "result": "TRUE",
+    "time_taken": 0.20741844177246094
+  },
+  {
+    "filename": "hard2_valuebound2_6.c",
+    "result": "TRUE",
+    "time_taken": 0.22768545150756836
+  },
+  {
+    "filename": "hard2_valuebound2_7.c",
+    "result": "TRUE",
+    "time_taken": 0.1935405731201172
+  },
+  {
+    "filename": "ifcompf_1.c",
+    "result": "FALSE",
+    "time_taken": 2.362177848815918
+  },
+  {
+    "filename": "ifeqn4f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.4022960662841797
+  },
+  {
+    "filename": "indp4f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.37457895278930664
+  },
+  {
+    "filename": "interleave_bits_1.c",
+    "result": "TRUE",
+    "time_taken": 0.22108674049377441
+  },
+  {
+    "filename": "invert_string-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.2107853889465332
+  },
+  {
+    "filename": "jain_2-2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1046948432922
+  },
+  {
+    "filename": "jain_4-1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.113290309906
+  },
+  {
+    "filename": "jain_6-1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.109733581543
+  },
+  {
+    "filename": "jain_7-2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1114835739136
+  },
+  {
+    "filename": "lcm1_unwindbound20_5.c",
+    "result": "FALSE",
+    "time_taken": 2.747849225997925
+  },
+  {
+    "filename": "lcm1_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.3545677661895752
+  },
+  {
+    "filename": "lcm1_unwindbound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.5198462009429932
+  },
+  {
+    "filename": "lcm1_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.48009705543518066
+  },
+  {
+    "filename": "lcm1_unwindbound2_5.c",
+    "result": "FALSE",
+    "time_taken": 0.5256133079528809
+  },
+  {
+    "filename": "lcm1_valuebound20_5.c",
+    "result": "TRUE",
+    "time_taken": 240.4893479347229
+  },
+  {
+    "filename": "lcm1_valuebound5_5.c",
+    "result": "TRUE",
+    "time_taken": 3.381175994873047
+  },
+  {
+    "filename": "lcm2_valuebound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1037876605988
+  },
+  {
+    "filename": "list_search-1_1.c",
+    "result": "FALSE",
+    "time_taken": 1.3381767272949219
+  },
+  {
+    "filename": "list_search-2_1.c",
+    "result": "TRUE",
+    "time_taken": 1.0945966243743896
+  },
+  {
+    "filename": "loopv3_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1045112609863
+  },
+  {
+    "filename": "mannadiv_unwindbound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1125025749207
+  },
+  {
+    "filename": "mannadiv_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.43610334396362305
+  },
+  {
+    "filename": "mannadiv_unwindbound2_2.c",
+    "result": "FALSE",
+    "time_taken": 0.30952906608581543
+  },
+  {
+    "filename": "mannadiv_unwindbound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1028106212616
+  },
+  {
+    "filename": "mannadiv_unwindbound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1115982532501
+  },
+  {
+    "filename": "mannadiv_unwindbound5_2.c",
+    "result": "FALSE",
+    "time_taken": 1.0584027767181396
+  },
+  {
+    "filename": "mannadiv_valuebound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1045227050781
+  },
+  {
+    "filename": "mannadiv_valuebound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0715165138245
+  },
+  {
+    "filename": "mlceu2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1162827014923
+  },
+  {
+    "filename": "modnf_1.c",
+    "result": "FALSE",
+    "time_taken": 0.8490173816680908
+  },
+  {
+    "filename": "mono-crafted_11_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056470870972
+  },
+  {
+    "filename": "ms1f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.5112199783325195
+  },
+  {
+    "filename": "ms5f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.2739229202270508
+  },
+  {
+    "filename": "multivar_1-1_1.c",
+    "result": "TRUE",
+    "time_taken": 546.6554741859436
+  },
+  {
+    "filename": "nec11_1.c",
+    "result": "FALSE",
+    "time_taken": 0.3698575496673584
+  },
+  {
+    "filename": "nec20_1.c",
+    "result": "FALSE",
+    "time_taken": 0.21593546867370605
+  },
+  {
+    "filename": "nested_1-1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1083347797394
+  },
+  {
+    "filename": "nested_delay_notd2_1.c",
+    "result": "FALSE",
+    "time_taken": 1.047243356704712
+  },
+  {
+    "filename": "nsqm-iff_1.c",
+    "result": "FALSE",
+    "time_taken": 0.5298130512237549
+  },
+  {
+    "filename": "num_conversion_1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.22632980346679688
+  },
+  {
+    "filename": "pcompf_1.c",
+    "result": "FALSE",
+    "time_taken": 0.9994544982910156
+  },
+  {
+    "filename": "poly1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1049721240997
+  },
+  {
+    "filename": "prod4br-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1144714355469
+  },
+  {
+    "filename": "prod4br-ll_3.c",
+    "result": "TRUE",
+    "time_taken": 478.9393193721771
+  },
+  {
+    "filename": "prod4br-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1135475635529
+  },
+  {
+    "filename": "prod4br-ll_unwindbound10_3.c",
+    "result": "FALSE",
+    "time_taken": 5.049130916595459
+  },
+  {
+    "filename": "prod4br-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.18975591659545898
+  },
+  {
+    "filename": "prod4br-ll_unwindbound1_2.c",
+    "result": "FALSE",
+    "time_taken": 1.2412254810333252
+  },
+  {
+    "filename": "prod4br-ll_unwindbound1_3.c",
+    "result": "FALSE",
+    "time_taken": 0.8179900646209717
+  },
+  {
+    "filename": "prod4br-ll_unwindbound2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0990986824036
+  },
+  {
+    "filename": "prod4br-ll_unwindbound2_2.c",
+    "result": "FALSE",
+    "time_taken": 1.3765013217926025
+  },
+  {
+    "filename": "prod4br-ll_unwindbound2_3.c",
+    "result": "FALSE",
+    "time_taken": 0.7382986545562744
+  },
+  {
+    "filename": "prod4br-ll_unwindbound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1062157154083
+  },
+  {
+    "filename": "prod4br-ll_unwindbound5_2.c",
+    "result": "FALSE",
+    "time_taken": 45.65009140968323
+  },
+  {
+    "filename": "prod4br-ll_unwindbound5_3.c",
+    "result": "FALSE",
+    "time_taken": 2.563730001449585
+  },
+  {
+    "filename": "prod4br-ll_valuebound100_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0826721191406
+  },
+  {
+    "filename": "prod4br-ll_valuebound100_3.c",
+    "result": "TRUE",
+    "time_taken": 10.254815101623535
+  },
+  {
+    "filename": "prod4br-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057858467102
+  },
+  {
+    "filename": "prod4br-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 3.773869514465332
+  },
+  {
+    "filename": "prod4br-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.26685476303100586
+  },
+  {
+    "filename": "prod4br-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2631406784057617
+  },
+  {
+    "filename": "prod4br-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.3695063591003418
+  },
+  {
+    "filename": "prod4br-ll_valuebound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1062927246094
+  },
+  {
+    "filename": "prod4br-ll_valuebound20_3.c",
+    "result": "TRUE",
+    "time_taken": 4.251437187194824
+  },
+  {
+    "filename": "prod4br-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.3882315158843994
+  },
+  {
+    "filename": "prod4br-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.29895496368408203
+  },
+  {
+    "filename": "prod4br-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2738938331604004
+  },
+  {
+    "filename": "prod4br-ll_valuebound50_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1059992313385
+  },
+  {
+    "filename": "prod4br-ll_valuebound50_3.c",
+    "result": "TRUE",
+    "time_taken": 7.7292399406433105
+  },
+  {
+    "filename": "prod4br-ll_valuebound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056175231934
+  },
+  {
+    "filename": "prod4br-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 2.8739004135131836
+  },
+  {
+    "filename": "prodbin-ll_unwindbound1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13044214248657227
+  },
+  {
+    "filename": "prodbin-ll_unwindbound1_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11843109130859375
+  },
+  {
+    "filename": "prodbin-ll_unwindbound2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13279414176940918
+  },
+  {
+    "filename": "prodbin-ll_unwindbound2_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11934375762939453
+  },
+  {
+    "filename": "prodbin-ll_valuebound10_1.c",
+    "result": "TRUE",
+    "time_taken": 5.298779487609863
+  },
+  {
+    "filename": "prodbin-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.21393251419067383
+  },
+  {
+    "filename": "prodbin-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.21318912506103516
+  },
+  {
+    "filename": "prodbin-ll_valuebound50_1.c",
+    "result": "TRUE",
+    "time_taken": 8.420461177825928
+  },
+  {
+    "filename": "prodbin-ll_valuebound5_1.c",
+    "result": "TRUE",
+    "time_taken": 5.448115348815918
+  },
+  {
+    "filename": "prodbin-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 0.3506479263305664
+  },
+  {
+    "filename": "ps2-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0646841526031
+  },
+  {
+    "filename": "ps2-ll_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1097211837769
+  },
+  {
+    "filename": "ps2-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.37613606452941895
+  },
+  {
+    "filename": "ps2-ll_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.20848679542541504
+  },
+  {
+    "filename": "ps2-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0696985721588
+  },
+  {
+    "filename": "ps2-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 1.0366294384002686
+  },
+  {
+    "filename": "ps2-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20672965049743652
+  },
+  {
+    "filename": "ps2-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.20403623580932617
+  },
+  {
+    "filename": "ps3-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1063401699066
+  },
+  {
+    "filename": "ps3-ll_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1157577037811
+  },
+  {
+    "filename": "ps3-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.36816978454589844
+  },
+  {
+    "filename": "ps3-ll_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.21587204933166504
+  },
+  {
+    "filename": "ps3-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1059019565582
+  },
+  {
+    "filename": "ps3-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 4.842511415481567
+  },
+  {
+    "filename": "ps3-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19413375854492188
+  },
+  {
+    "filename": "ps3-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.19152283668518066
+  },
+  {
+    "filename": "ps4-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060292720795
+  },
+  {
+    "filename": "ps4-ll_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1163244247437
+  },
+  {
+    "filename": "ps4-ll_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1168284416199
+  },
+  {
+    "filename": "ps4-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167771816254
+  },
+  {
+    "filename": "ps4-ll_unwindbound10_2.c",
+    "result": "FALSE",
+    "time_taken": 2.1626808643341064
+  },
+  {
+    "filename": "ps4-ll_unwindbound10_3.c",
+    "result": "TRUE",
+    "time_taken": 14.995160579681396
+  },
+  {
+    "filename": "ps4-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.16640734672546387
+  },
+  {
+    "filename": "ps4-ll_unwindbound1_2.c",
+    "result": "FALSE",
+    "time_taken": 0.1865396499633789
+  },
+  {
+    "filename": "ps4-ll_unwindbound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.18529701232910156
+  },
+  {
+    "filename": "ps4-ll_unwindbound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1053383350372
+  },
+  {
+    "filename": "ps4-ll_unwindbound20_2.c",
+    "result": "FALSE",
+    "time_taken": 2.0562193393707275
+  },
+  {
+    "filename": "ps4-ll_unwindbound20_3.c",
+    "result": "TRUE",
+    "time_taken": 17.50688600540161
+  },
+  {
+    "filename": "ps4-ll_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1731863021850586
+  },
+  {
+    "filename": "ps4-ll_unwindbound2_2.c",
+    "result": "FALSE",
+    "time_taken": 0.19126439094543457
+  },
+  {
+    "filename": "ps4-ll_unwindbound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.19133615493774414
+  },
+  {
+    "filename": "ps4-ll_unwindbound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056780815125
+  },
+  {
+    "filename": "ps4-ll_unwindbound5_2.c",
+    "result": "FALSE",
+    "time_taken": 1.4831175804138184
+  },
+  {
+    "filename": "ps4-ll_unwindbound5_3.c",
+    "result": "TRUE",
+    "time_taken": 13.899192810058594
+  },
+  {
+    "filename": "ps4-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056683063507
+  },
+  {
+    "filename": "ps4-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 1.350130558013916
+  },
+  {
+    "filename": "ps4-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 9.267535209655762
+  },
+  {
+    "filename": "ps4-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2066636085510254
+  },
+  {
+    "filename": "ps4-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.19491982460021973
+  },
+  {
+    "filename": "ps4-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.20718073844909668
+  },
+  {
+    "filename": "ps4-ll_valuebound20_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1063797473907
+  },
+  {
+    "filename": "ps4-ll_valuebound20_2.c",
+    "result": "TRUE",
+    "time_taken": 1.4672269821166992
+  },
+  {
+    "filename": "ps4-ll_valuebound20_3.c",
+    "result": "TRUE",
+    "time_taken": 10.662783145904541
+  },
+  {
+    "filename": "ps4-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.18817710876464844
+  },
+  {
+    "filename": "ps4-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.187896728515625
+  },
+  {
+    "filename": "ps4-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.22916746139526367
+  },
+  {
+    "filename": "ps4-ll_valuebound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1063725948334
+  },
+  {
+    "filename": "ps4-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 1.6203160285949707
+  },
+  {
+    "filename": "ps4-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 8.769939661026001
+  },
+  {
+    "filename": "ps5-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1056780815125
+  },
+  {
+    "filename": "ps5-ll_2.c",
+    "result": "TRUE",
+    "time_taken": 277.2867908477783
+  },
+  {
+    "filename": "ps5-ll_3.c",
+    "result": "TRUE",
+    "time_taken": 25.783929586410522
+  },
+  {
+    "filename": "ps5-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1917860507965088
+  },
+  {
+    "filename": "ps5-ll_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.21083807945251465
+  },
+  {
+    "filename": "ps5-ll_unwindbound1_3.c",
+    "result": "FALSE",
+    "time_taken": 0.20867633819580078
+  },
+  {
+    "filename": "ps5-ll_unwindbound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19177961349487305
+  },
+  {
+    "filename": "ps5-ll_unwindbound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2063002586364746
+  },
+  {
+    "filename": "ps5-ll_unwindbound2_3.c",
+    "result": "FALSE",
+    "time_taken": 0.21425795555114746
+  },
+  {
+    "filename": "ps5-ll_unwindbound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1059830188751
+  },
+  {
+    "filename": "ps5-ll_unwindbound5_2.c",
+    "result": "TRUE",
+    "time_taken": 10.762522459030151
+  },
+  {
+    "filename": "ps5-ll_unwindbound5_3.c",
+    "result": "FALSE",
+    "time_taken": 1.6099693775177002
+  },
+  {
+    "filename": "ps5-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1062903404236
+  },
+  {
+    "filename": "ps5-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 9.69809079170227
+  },
+  {
+    "filename": "ps5-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 1.5455436706542969
+  },
+  {
+    "filename": "ps5-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2792928218841553
+  },
+  {
+    "filename": "ps5-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.21228480339050293
+  },
+  {
+    "filename": "ps5-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.20852065086364746
+  },
+  {
+    "filename": "ps5-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20639944076538086
+  },
+  {
+    "filename": "ps5-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.22098088264465332
+  },
+  {
+    "filename": "ps5-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.2082207202911377
+  },
+  {
+    "filename": "ps6-ll_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0844964981079
+  },
+  {
+    "filename": "ps6-ll_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1172938346863
+  },
+  {
+    "filename": "ps6-ll_3.c",
+    "result": "TRUE",
+    "time_taken": 26.15764093399048
+  },
+  {
+    "filename": "ps6-ll_unwindbound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.106095790863
+  },
+  {
+    "filename": "ps6-ll_unwindbound10_2.c",
+    "result": "TRUE",
+    "time_taken": 12.12705397605896
+  },
+  {
+    "filename": "ps6-ll_unwindbound10_3.c",
+    "result": "FALSE",
+    "time_taken": 1.78611421585083
+  },
+  {
+    "filename": "ps6-ll_unwindbound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20701980590820312
+  },
+  {
+    "filename": "ps6-ll_unwindbound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.2777884006500244
+  },
+  {
+    "filename": "ps6-ll_unwindbound1_3.c",
+    "result": "FALSE",
+    "time_taken": 0.20818758010864258
+  },
+  {
+    "filename": "ps6-ll_valuebound10_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057546138763
+  },
+  {
+    "filename": "ps6-ll_valuebound10_2.c",
+    "result": "TRUE",
+    "time_taken": 12.15191125869751
+  },
+  {
+    "filename": "ps6-ll_valuebound10_3.c",
+    "result": "TRUE",
+    "time_taken": 1.0965628623962402
+  },
+  {
+    "filename": "ps6-ll_valuebound1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.20232343673706055
+  },
+  {
+    "filename": "ps6-ll_valuebound1_2.c",
+    "result": "TRUE",
+    "time_taken": 0.19504952430725098
+  },
+  {
+    "filename": "ps6-ll_valuebound1_3.c",
+    "result": "TRUE",
+    "time_taken": 0.19061732292175293
+  },
+  {
+    "filename": "ps6-ll_valuebound2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1758744716644287
+  },
+  {
+    "filename": "ps6-ll_valuebound2_2.c",
+    "result": "TRUE",
+    "time_taken": 0.1930863857269287
+  },
+  {
+    "filename": "ps6-ll_valuebound2_3.c",
+    "result": "TRUE",
+    "time_taken": 0.19268083572387695
+  },
+  {
+    "filename": "ps6-ll_valuebound5_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1067862510681
+  },
+  {
+    "filename": "ps6-ll_valuebound5_2.c",
+    "result": "TRUE",
+    "time_taken": 10.291765451431274
+  },
+  {
+    "filename": "ps6-ll_valuebound5_3.c",
+    "result": "TRUE",
+    "time_taken": 1.4724836349487305
+  },
+  {
+    "filename": "res2f_1.c",
+    "result": "FALSE",
+    "time_taken": 1.0192246437072754
+  },
+  {
+    "filename": "rewnifrev2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060729026794
+  },
+  {
+    "filename": "rewnifrev_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1162605285645
+  },
+  {
+    "filename": "rewrev_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.116776227951
+  },
+  {
+    "filename": "s1iff_1.c",
+    "result": "FALSE",
+    "time_taken": 1.553600788116455
+  },
+  {
+    "filename": "s2liff_1.c",
+    "result": "FALSE",
+    "time_taken": 0.4753100872039795
+  },
+  {
+    "filename": "s42iff_1.c",
+    "result": "FALSE",
+    "time_taken": 1.319606065750122
+  },
+  {
+    "filename": "s5iff_1.c",
+    "result": "FALSE",
+    "time_taken": 0.9998269081115723
+  },
+  {
+    "filename": "simple_2-1_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.046576499939
+  },
+  {
+    "filename": "simple_4-2_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1168689727783
+  },
+  {
+    "filename": "simple_array_index_value_4_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1166150569916
+  },
+  {
+    "filename": "simple_array_index_value_4_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1169021129608
+  },
+  {
+    "filename": "sina3f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.6486787796020508
+  },
+  {
+    "filename": "skippedu_1.c",
+    "result": "FALSE",
+    "time_taken": 0.303617000579834
+  },
+  {
+    "filename": "sll-01-1_10.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13519763946533203
+  },
+  {
+    "filename": "sll-01-1_11.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11933660507202148
+  },
+  {
+    "filename": "sll-01-1_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1173696517944336
+  },
+  {
+    "filename": "sll-01-1_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12108564376831055
+  },
+  {
+    "filename": "sll-01-1_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12318921089172363
+  },
+  {
+    "filename": "sll-01-1_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12066292762756348
+  },
+  {
+    "filename": "sll-01-1_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11937093734741211
+  },
+  {
+    "filename": "sll-01-1_8.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13021326065063477
+  },
+  {
+    "filename": "sll-01-1_9.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12097811698913574
+  },
+  {
+    "filename": "sll-01-2_10.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13516521453857422
+  },
+  {
+    "filename": "sll-01-2_11.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12520456314086914
+  },
+  {
+    "filename": "sll-01-2_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12066650390625
+  },
+  {
+    "filename": "sll-01-2_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1228489875793457
+  },
+  {
+    "filename": "sll-01-2_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12040257453918457
+  },
+  {
+    "filename": "sll-01-2_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12093186378479004
+  },
+  {
+    "filename": "sll-01-2_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12156009674072266
+  },
+  {
+    "filename": "sll-01-2_8.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12085580825805664
+  },
+  {
+    "filename": "sll-01-2_9.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12102055549621582
+  },
+  {
+    "filename": "sll-buckets-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13342976570129395
+  },
+  {
+    "filename": "sll-buckets-2_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11881160736083984
+  },
+  {
+    "filename": "sll-buckets-2_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11753273010253906
+  },
+  {
+    "filename": "sll-buckets-2_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11946415901184082
+  },
+  {
+    "filename": "sll-buckets-2_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13590121269226074
+  },
+  {
+    "filename": "sll-optional-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13543105125427246
+  },
+  {
+    "filename": "sll-queue-1_10.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13169550895690918
+  },
+  {
+    "filename": "sll-queue-1_11.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11676979064941406
+  },
+  {
+    "filename": "sll-queue-1_12.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11900544166564941
+  },
+  {
+    "filename": "sll-queue-1_13.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12025594711303711
+  },
+  {
+    "filename": "sll-queue-1_14.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1137075424194336
+  },
+  {
+    "filename": "sll-queue-1_15.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.11963057518005371
+  },
+  {
+    "filename": "sll-queue-1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1198420524597168
+  },
+  {
+    "filename": "sll-queue-1_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1203923225402832
+  },
+  {
+    "filename": "sll-queue-1_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.1232912540435791
+  },
+  {
+    "filename": "sll-queue-1_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12400364875793457
+  },
+  {
+    "filename": "sll-queue-1_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12090206146240234
+  },
+  {
+    "filename": "sll-queue-1_7.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12102437019348145
+  },
+  {
+    "filename": "sll-queue-1_8.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12306332588195801
+  },
+  {
+    "filename": "sll-queue-1_9.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.14310073852539062
+  },
+  {
+    "filename": "sll-rb-sentinel-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.14062714576721191
+  },
+  {
+    "filename": "sll-rb-sentinel-2_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12180423736572266
+  },
+  {
+    "filename": "sll-rb-sentinel-2_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.12105154991149902
+  },
+  {
+    "filename": "sll-rb-sentinel-2_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13845276832580566
+  },
+  {
+    "filename": "sll-simple-white-blue-1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.13465094566345215
+  },
+  {
+    "filename": "sll-simple-white-blue-2_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 0.14076542854309082
+  },
+  {
+    "filename": "soft_float_1-3a.c.cil_2.c",
+    "result": "FALSE",
+    "time_taken": 0.21326398849487305
+  },
+  {
+    "filename": "soft_float_1-3a.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.33538246154785156
+  },
+  {
+    "filename": "soft_float_1-3a.c.cil_4.c",
+    "result": "TRUE",
+    "time_taken": 0.2516458034515381
+  },
+  {
+    "filename": "soft_float_1-3a.c.cil_5.c",
+    "result": "TRUE",
+    "time_taken": 0.38717103004455566
+  },
+  {
+    "filename": "soft_float_1-3a.c.cil_6.c",
+    "result": "TRUE",
+    "time_taken": 0.6223230361938477
+  },
+  {
+    "filename": "soft_float_1-3a.c.cil_7.c",
+    "result": "TRUE",
+    "time_taken": 0.9020824432373047
+  },
+  {
+    "filename": "soft_float_2.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.7688450813293457
+  },
+  {
+    "filename": "soft_float_2a.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.47118592262268066
+  },
+  {
+    "filename": "soft_float_4-3.c.cil_2.c",
+    "result": "FALSE",
+    "time_taken": 0.2306525707244873
+  },
+  {
+    "filename": "soft_float_4-3.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.3069133758544922
+  },
+  {
+    "filename": "soft_float_4-3.c.cil_4.c",
+    "result": "TRUE",
+    "time_taken": 0.24092817306518555
+  },
+  {
+    "filename": "soft_float_4-3.c.cil_5.c",
+    "result": "TRUE",
+    "time_taken": 0.2519228458404541
+  },
+  {
+    "filename": "soft_float_4-3a.c.cil_2.c",
+    "result": "FALSE",
+    "time_taken": 0.22884273529052734
+  },
+  {
+    "filename": "soft_float_4-3a.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.5263738632202148
+  },
+  {
+    "filename": "soft_float_4-3a.c.cil_4.c",
+    "result": "TRUE",
+    "time_taken": 0.34980249404907227
+  },
+  {
+    "filename": "soft_float_4-3a.c.cil_5.c",
+    "result": "TRUE",
+    "time_taken": 0.28019261360168457
+  },
+  {
+    "filename": "soft_float_5.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.4731929302215576
+  },
+  {
+    "filename": "soft_float_5a.c.cil_3.c",
+    "result": "TRUE",
+    "time_taken": 0.43723058700561523
+  },
+  {
+    "filename": "sqmf_1.c",
+    "result": "FALSE",
+    "time_taken": 0.4616999626159668
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound50_1.c",
+    "result": "TRUE",
+    "time_taken": 0.17339539527893066
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.023549079895
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound50_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1167042255402
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound50_4.c",
+    "result": "TRUE",
+    "time_taken": 1.7340550422668457
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound50_5.c",
+    "result": "TRUE",
+    "time_taken": 5.656142711639404
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound50_6.c",
+    "result": "TRUE",
+    "time_taken": 2.6609482765197754
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound5_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1920938491821289
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound5_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1066358089447
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound5_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0555877685547
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound5_4.c",
+    "result": "TRUE",
+    "time_taken": 0.569988489151001
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound5_5.c",
+    "result": "TRUE",
+    "time_taken": 1.1820733547210693
+  },
+  {
+    "filename": "sqrt1-ll_unwindbound5_6.c",
+    "result": "TRUE",
+    "time_taken": 1.4916877746582031
+  },
+  {
+    "filename": "sqrt1-ll_valuebound100_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2412583827972412
+  },
+  {
+    "filename": "sqrt1-ll_valuebound100_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.105899810791
+  },
+  {
+    "filename": "sqrt1-ll_valuebound100_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0311641693115
+  },
+  {
+    "filename": "sqrt1-ll_valuebound100_4.c",
+    "result": "TRUE",
+    "time_taken": 0.4874889850616455
+  },
+  {
+    "filename": "sqrt1-ll_valuebound100_5.c",
+    "result": "TRUE",
+    "time_taken": 1.639037847518921
+  },
+  {
+    "filename": "sqrt1-ll_valuebound100_6.c",
+    "result": "TRUE",
+    "time_taken": 1.47590970993042
+  },
+  {
+    "filename": "sqrt1-ll_valuebound50_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2642369270324707
+  },
+  {
+    "filename": "sqrt1-ll_valuebound50_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1064283847809
+  },
+  {
+    "filename": "sqrt1-ll_valuebound50_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1164152622223
+  },
+  {
+    "filename": "sqrt1-ll_valuebound50_4.c",
+    "result": "TRUE",
+    "time_taken": 0.4782993793487549
+  },
+  {
+    "filename": "sqrt1-ll_valuebound50_5.c",
+    "result": "TRUE",
+    "time_taken": 1.540055751800537
+  },
+  {
+    "filename": "sqrt1-ll_valuebound50_6.c",
+    "result": "TRUE",
+    "time_taken": 1.423802137374878
+  },
+  {
+    "filename": "sqrt1_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2414689064025879
+  },
+  {
+    "filename": "sqrt1_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1057965755463
+  },
+  {
+    "filename": "sqrt1_3.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1157417297363
+  },
+  {
+    "filename": "sqrt1_4.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1150946617126
+  },
+  {
+    "filename": "sqrt1_5.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.0338728427887
+  },
+  {
+    "filename": "sqrt1_6.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1173031330109
+  },
+  {
+    "filename": "ss4f_1.c",
+    "result": "FALSE",
+    "time_taken": 0.8611283302307129
+  },
+  {
+    "filename": "string-2_1.c",
+    "result": "FALSE",
+    "time_taken": 0.2268519401550293
+  },
+  {
+    "filename": "sum01-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.28049182891845703
+  },
+  {
+    "filename": "sum01-2_1.c",
+    "result": "TRUE",
+    "time_taken": 441.3855776786804
+  },
+  {
+    "filename": "sum03-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.41291284561157227
+  },
+  {
+    "filename": "sum04-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.19818663597106934
+  },
+  {
+    "filename": "sum04-2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19097661972045898
+  },
+  {
+    "filename": "sum_by_3_1.c",
+    "result": "TRUE",
+    "time_taken": 0.3821396827697754
+  },
+  {
+    "filename": "sum_by_3_abstracted_1.c",
+    "result": "TRUE",
+    "time_taken": 0.2741398811340332
+  },
+  {
+    "filename": "terminator_03-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.20650124549865723
+  },
+  {
+    "filename": "tree_del_iter_incorrect_1.c",
+    "result": "FALSE",
+    "time_taken": 10.353201389312744
+  },
+  {
+    "filename": "tree_del_iter_incorrect_2.c",
+    "result": "FALSE",
+    "time_taken": 14.164533376693726
+  },
+  {
+    "filename": "tree_del_iter_incorrect_3.c",
+    "result": "FALSE",
+    "time_taken": 15.280243396759033
+  },
+  {
+    "filename": "tree_del_iter_incorrect_4.c",
+    "result": "FALSE",
+    "time_taken": 16.764609813690186
+  },
+  {
+    "filename": "tree_del_rec_1.c",
+    "result": "FALSE",
+    "time_taken": 16.462652683258057
+  },
+  {
+    "filename": "tree_del_rec_3.c",
+    "result": "FALSE",
+    "time_taken": 10.664371967315674
+  },
+  {
+    "filename": "tree_del_rec_4.c",
+    "result": "FALSE",
+    "time_taken": 15.828752517700195
+  },
+  {
+    "filename": "trex01-1_1.c",
+    "result": "FALSE",
+    "time_taken": 0.19074392318725586
+  },
+  {
+    "filename": "trex04_1.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1061294078827
+  },
+  {
+    "filename": "underapprox_1-2_1.c",
+    "result": "TRUE",
+    "time_taken": 0.4253389835357666
+  },
+  {
+    "filename": "veris.c_sendmail_tTflag_arr_one_loop_1.c",
+    "result": "TRUE",
+    "time_taken": 0.1898515224456787
+  },
+  {
+    "filename": "while_infinite_loop_3_1.c",
+    "result": "TRUE",
+    "time_taken": 0.19623327255249023
+  },
+  {
+    "filename": "while_infinite_loop_3_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1060917377472
+  },
+  {
+    "filename": "while_infinite_loop_4_1.c",
+    "result": "FALSE",
+    "time_taken": 0.37775254249572754
+  },
+  {
+    "filename": "while_infinite_loop_4_2.c",
+    "result": "UNKNOWN",
+    "time_taken": 602.1061215400696
+  }
+]

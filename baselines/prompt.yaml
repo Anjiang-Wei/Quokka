@@ -1,0 +1,65 @@
+cot_system_prompt: |
+  Given a C program with line numbers, you need to identify the loop invariant to be added at one of the provided points in the program. A loop invariant is an expression that is true before, during, and after the execution of a loop.
+
+  Instructions:
+  1. You will be provided the set of points in the program where loop invariants can be added. Each point will be specified as after line X.
+  2. You must reason step by step before choosing one of the points to insert a correct loop invariant. 
+  
+  Reason step by step and then output the one loop invariant to insert wrapped in /*@ and @*/ comments. Respond with exactly this format:
+  "[insert your step by step reasoning here]/*@After line X, insert assume(condition);@*/"
+
+  Where:
+  - X refers to the provided line number where the loop invariant needs to be added
+  - condition is the loop invariant condition you want to insert. The loop invariant should not modify any variable (no ++, --, +=, -=, =). 
+  - only output one loop invariant
+
+cot_user_prompt: |
+  Program:
+  {PROGRAM}
+
+  Choose one of the points to insert a correct loop invariant at in the program:
+  {POINTS}
+
+  Please analyze the provided C program and suggest where to insert a loop invariant in the specified format.
+  
+  Let's think step by step.
+
+
+
+std_system_prompt: |
+  Given a C program with line numbers, you need to identify the loop invariant to be added at one of the provided points in the program. A loop invariant is an expression that is true before, during, and after the execution of a loop.
+
+  You will be provided the set of points in the program where loop invariants can be added. Each point will be specified as after line X.
+
+  Choose one of the points to insert a loop invariant. Respond with exactly this format:
+  "After line X, insert assume(condition);"
+
+  Where:
+  - X refers to the provided line number where the loop invariant needs to be added
+  - condition is the loop invariant condition you want to insert. The loop invariant should not modify any variable (no ++, --, +=, -=, =). 
+  - only output one loop invariant
+
+  Directly output the loop invariant in the specified format without any other text.
+
+std_user_prompt: |
+  Program:
+  {PROGRAM}
+
+  Choose one of the points to insert a correct loop invariant at in the program:
+  {POINTS}
+
+  Please analyze the provided C program and output only where to insert a loop invariant in the specified format. Directly output the loop invariant in the specified format without any other text.
+  
+few_shot_examples:
+  - program: "#include <assert.h> // line 1\n#include <stdlib.h> // line 2\n // line 3\nvoid reach_error(void) { assert(0); } // line 4\n // line 5\nvoid __VERIFIER_assert(int cond) { // line 6\n    if (!cond) { // line 7\n        reach_error(); // line 8\n    } // line 9\n} // line 10\n // line 11\nextern int __VERIFIER_nondet_int(void); // line 12\n // line 13\nint main() { // line 14\n    int n = __VERIFIER_nondet_int(); // line 15\n    int result = 1; // line 16\n // line 17\n    // Precondition // line 18\n    if (n < 0) { // line 19\n        return 0; // line 20\n    } // line 21\n // line 22\n    // Compute factorial using iterative approach // line 23\n    for (int i = 2; i <= n; i++) { // line 24\n        result *= i; // line 25\n    } // line 26\n // line 27\n    // Postcondition: result should always be positive for n >= 0 // line 28\n    __VERIFIER_assert(result > 0); // line 29\n // line 30\n    return 0; // line 31\n} // line 32"
+    point: "After line 24"
+    response: "After line 24, insert assume(1 <= result && 2 <= i);"
+  -  program: "#include <assert.h> // line 1\nvoid reach_error(void) { assert(0); } // line 2\n // line 3\nextern int __VERIFIER_nondet_int(void); // line 4\nextern _Bool __VERIFIER_nondet_bool(void); // line 5\n // line 6\nvoid __VERIFIER_assert(int cond) { // line 7\n    if (!cond) { // line 8\n        reach_error(); // line 9\n    } // line 10\n} // line 11\n // line 12\n/* New Concept: // line 13\nnames= a b product // line 14\nbeforeloop= // line 15\nbeforeloopinit= // line 16\nprecondition=a >= 0 && b >= 0 && product == 0 && a <= 100 // line 17\nloopcondition=b > 0 // line 18\nloop=product += a; b--; // line 19\npostcondition=product >= 0 // line 20\nafterloop= // line 21\n*/ // line 22\nint main() { // line 23\n    int a = __VERIFIER_nondet_int(); // line 24\n    int b = __VERIFIER_nondet_int(); // line 25\n    int product = __VERIFIER_nondet_int(); // line 26\n // line 27\n    if (!(a >= 0 && b >= 0 && product == 0 && a <= 100)) { // line 28\n        return 0; // line 29\n    } // line 30\n // line 31\n    while (b > 0) { // line 32\n        product += a; // line 33\n        b--; // line 34\n    } // line 35\n // line 36\n    __VERIFIER_assert(product >= 0); // line 37\n    return 0; // line 38\n} // line 39"
+     point: "After line 32"
+     response: "After line 32, insert assume(0 <= product && 0 <= a);"
+  - program: "#include <stdbool.h> // line 2\n#include <stdlib.h> // line 3\n // line 4\nextern void abort(void); // line 5\nvoid reach_error() { assert(0); } // line 6\nvoid __VERIFIER_assert(int cond) { // line 7\n    if (!(cond)) { // line 8\n        reach_error(); // line 9\n        abort(); // line 10\n    } // line 11\n} // line 12\nint __VERIFIER_nondet_int(void); // line 13\n // line 14\n#define MAX_SIZE 100 // line 15\n // line 16\nint main() { // line 17\n    int arr[MAX_SIZE]; // line 18\n    int size = __VERIFIER_nondet_int(); // line 19\n    if (size < 0 || size > MAX_SIZE) { // line 20\n        size = MAX_SIZE; // Ensure bounded size for safety // line 21\n    } // line 22\n // line 23\n    // Initialize the array with nondeterministic values // line 24\n    for (int i = 0; i < size; ++i) { // line 25\n        arr[i] = __VERIFIER_nondet_int(); // line 26\n    } // line 27\n // line 28\n    int threshold = __VERIFIER_nondet_int(); // line 29\n    int count = 0; // line 30\n // line 31\n    // Count the number of elements greater than the threshold // line 32\n    for (int i = 0; i < size; ++i) { // line 33\n        if (arr[i] > threshold) { // line 34\n            count++; // line 35\n        } // line 36\n    } // line 37\n // line 38\n    // Verification: After the loop, count should be non-negative and less than or equal to size // line 39\n    __VERIFIER_assert(count >= 0); // line 40\n // line 41\n    // Further computation: Ensure every element processed maintains the invariant // line 42\n    for (int i = 0; i < size; ++i) { // line 43\n        if (arr[i] > threshold) { // line 44\n        } else { // line 45\n        } // line 46\n    } // line 47\n // line 48\n    return 0; // line 49\n} // line 50"
+    point: "After line 25\nAfter line 33\nAfter line 43"
+    response: "After line 33, insert assume(0 <= count);"
+  - program: "#include <assert.h> // line 1\n#include <stdlib.h> // line 2\n // line 3\nvoid reach_error(void) { assert(0); } // line 4\n // line 5\nextern int __VERIFIER_nondet_int(void); // line 6\n // line 7\nvoid __VERIFIER_assert(int cond) { // line 8\n    if (!cond) { // line 9\n        reach_error(); // line 10\n    } // line 11\n} // line 12\n // line 13\nint main() { // line 14\n    int n = __VERIFIER_nondet_int(); // line 15\n    int m = __VERIFIER_nondet_int(); // line 16\n // line 17\n    if (n < 0 || m < 0) { // line 18\n        return 0; // Expecting both n and m to be non-negative // line 19\n    } // line 20\n // line 21\n    int i = 0; // line 22\n    int sum = 0; // line 23\n // line 24\n    // Calculating sum of first n natural numbers // line 25\n    while (i <= n) { // line 26\n        sum += i; // line 27\n        i++; // line 28\n    } // line 29\n // line 30\n    // Ensure sum is correctly calculated // line 31\n // line 32\n    int fac = 1; // line 33\n    i = 1; // line 34\n // line 35\n    // Calculating factorial of m // line 36\n    while (i <= m) { // line 37\n        fac *= i; // line 38\n        i++; // line 39\n    } // line 40\n // line 41\n    // For large m, fac might exceed typical integer bounds, // line 42\n    // but here we simply enforce a condition ensuring fac // line 43\n    // should not drop below 1 if m is positive // line 44\n    if (m > 0) { // line 45\n        __VERIFIER_assert(fac >= 1); // line 46\n    } // line 47\n // line 48\n    return 0; // line 49\n} // line 50"
+    point: "After line 26\nAfter line 37"
+    response: "After line 37, insert assume(1 <= i && 1 <= fac);"
