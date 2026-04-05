@@ -12,6 +12,11 @@ conda create -y -n invenv python=3.11.4
 conda activate invenv
 ```
 
+### Install Uautomizer (and optionally ESBMC)
+```
+./build.sh
+```
+
 ### Install Requirements
 
 ```bash
@@ -54,6 +59,10 @@ If our research inspires you, please cite our paper:
   url={https://arxiv.org/abs/2509.21629},
 }
 ```
+
+## Acknowledgement
+
+- [LEMUR](https://github.com/ai-ar-research/Lemur-program-verification)
 
 ## License
 
