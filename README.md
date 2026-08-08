@@ -105,13 +105,11 @@ If our research inspires you, please cite our paper:
 
 ```bibtex
 @inproceedings{wei2026quokka,
-  title={Quokka: Accelerating Program Verification with LLMs via Invariant Synthesis},
+  title={Quokka: Accelerating Program Verification with {LLM}s via Invariant Synthesis},
   author={Wei, Anjiang and Sun, Tianran and Suresh, Tarun and Wu, Haoze and Wang, Ke and Aiken, Alex},
+  booktitle={Third Conference on Language Modeling},
   year={2026},
-  eprint={2509.21629},
-  archivePrefix={arXiv},
-  primaryClass={cs.PL},
-  url={https://arxiv.org/abs/2509.21629},
+  url={https://openreview.net/forum?id=YvyAcGrpcJ}
 }
 ```
 
